@@ -1,4 +1,6 @@
-## Hi there 👋
+# I'm Allan 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alnramos&show_icons=true)](https://github.com/alnramos/github-readme-stats)
 
 <!--
 **alnramos/alnramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
